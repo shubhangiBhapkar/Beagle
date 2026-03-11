@@ -1,0 +1,14 @@
+section{
+    padding:10px; 
+}
+.top-section {
+    border: 1px solid black;
+     
+}
+
+a{
+    text-decoration: none;
+}
+#img1{
+    width:300px;
+}

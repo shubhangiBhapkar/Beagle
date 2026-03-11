@@ -23,10 +23,14 @@ This project was created using **HTML and CSS** as part of an assignment.
 ---
 
 ## 📂 Project Structure
+
+
+```
 project-folder
 │
 ├── index.html
 ├── style.css
+```
 
 ---
 
